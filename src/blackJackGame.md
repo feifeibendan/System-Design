@@ -1,3 +1,5 @@
+#### Object Orient Design: BlackJackGame
+
 ```
 class Card {
     private int val;
@@ -91,3 +93,5 @@ public Player {
 	}
 }
 ```
+
+[useful resource](http://buildingskills.itmaybeahack.com/book/oodesign-java-2.1/html/blackjack/blackjack_game.html])
